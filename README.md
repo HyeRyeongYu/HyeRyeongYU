@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 [![hyeryeong's github stats](https://github-readme-stats.vercel.app/api?username=hyeryeongyu)](https://github.com/hyeryeongyu/github-readme-stats)
-<!--
 
 ## Studying Now
 
