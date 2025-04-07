@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:00c6ff,100:0072ff&height=200&section=header&text=Welcome%20to%20my%20GitHub&fontSize=40" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:87CEFA,100:B2EBF2&height=200&section=header&text=Welcome%20to%20my%20GitHub&fontSize=40&fontColor=ffffff" />
 
 [![hyeryeong's github stats](https://github-readme-stats.vercel.app/api?username=hyeryeongyu)](https://github.com/hyeryeongyu/github-readme-stats)
 
