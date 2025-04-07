@@ -14,4 +14,4 @@
 
 ## 📫 How to reach me
 
-[![Gmail Badge](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](hry8585@yu.ac.kr) **hry8585@yu.ac.kr** | **yuhryeong@gmail.com**
+[![Gmail Badge](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](yuhryeong@gmail.com)  **yuhryeong@gmail.com**| **hry8585@yu.ac.kr**
