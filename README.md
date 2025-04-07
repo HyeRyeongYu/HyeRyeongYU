@@ -15,3 +15,10 @@
 ## 📫 How to reach me
 
 [![Gmail Badge](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](hry8585@yu.ac.kr) **hry8585@yu.ac.kr**
+
+## 📌 About Me
+
+- 🌱 I’m currently learning **Python**, **C**, and **C++**
+- 🔥 I’m interested in **Artificial Intelligence (AI)** and **Information Security**
+- 🎯 My goal is to become a **Skilled Developer** with expertise in AI and Security
+- 💬 I **enjoy communicating** and **sharing ideas about technology**
